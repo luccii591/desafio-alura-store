@@ -30,5 +30,4 @@ Evaluar las tiendas en base a:
 - Python 3.x
 - Pandas, matplotlib, folium
 
-## 🚀 Ver el sitio en línea
 
